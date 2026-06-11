@@ -1,6 +1,8 @@
 # Logo de Ciberseguridad
 
-![Logo](logo.png)
+<p align="center">
+  <img src="./logo.png" width="400">
+</p>
 
 ## Autor
 
