@@ -1,2 +1,17 @@
-# logo-ciberseguridad-jennifer
-Copyright (c) 2026 Jennifer Yurianny Sánchez Holguín  All Rights Reserved.  This work may not be copied, modified, distributed, reproduced, sold, or used without the express written permission of the author.
+# Logo de Ciberseguridad
+
+![Logo](logo.png)
+
+## Autor
+
+Jennifer Yurianny Sánchez Holguín
+
+## Descripción
+
+Diseño gráfico orientado a la representación visual de conceptos de ciberseguridad, protección de datos e identidad digital.
+
+## Derechos de Autor
+
+© 2026 Jennifer Yurianny Sánchez Holguín. Todos los derechos reservados.
+
+No se permite copiar, modificar, distribuir o utilizar esta obra sin autorización expresa de la autora.
